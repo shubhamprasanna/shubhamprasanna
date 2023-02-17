@@ -5,9 +5,8 @@ I am a Software Engineer with a passion for Frontend and UX. I thrive on buildin
 My product development process is a combination of both worlds - design and engineering. I like to move back and forth between these two worlds, solving problems by applying the right technologies, UX patterns, and best practices.
 
 - 🔭 I’m currently working on a Business Process Management product.
-- 🌱 I’m currently learning **DSA 🤯 (Save me!)**
+- 🌱 I’m currently learning **Flutter 🤯**
 - 👯 I’m looking to collaborate on **anything interesting**
-- 🤔 I’m looking for help with **DSA 😪**
 - ⚡ Fun fact: **My dog weighs more than my girlfriend 🐕**
 
 ### Tools of my trade
@@ -73,8 +72,6 @@ My product development process is a combination of both worlds - design and engi
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=Express&logoColor=white)
 &nbsp;
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white)
-&nbsp;
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 
 <!--
 **shubhamprasanna/shubhamprasanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
