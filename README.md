@@ -19,6 +19,8 @@ My product development process is a combination of both worlds - design and engi
 #### Programming
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=333333)
 &nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=ffffff)
+&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 &nbsp;
 ![Node](https://img.shields.io/badge/Node.js-00599C?style=for-the-badge&logo=Node.js&logoColor=white)
